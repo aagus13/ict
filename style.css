@@ -2,7 +2,7 @@
 nav {
     display: flex;
     justify-content: center; /* This centers the items along the main axis */
-    background-color: #555;
+    background-color: #e3de9f;
     padding: 10px;
 }
 
